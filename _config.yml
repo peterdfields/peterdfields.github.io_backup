@@ -6,6 +6,5 @@ author:
   email:      ""
 markdown:     
 permalink:    pretty
-pygments:     true
+pygments:     rouge
 paginate:     5
-highlighter:   rouge
