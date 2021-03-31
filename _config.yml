@@ -8,3 +8,4 @@ markdown:
 permalink:    pretty
 pygments:     true
 paginate:     5
+highligher:   rouge
