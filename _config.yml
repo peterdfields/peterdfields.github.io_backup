@@ -4,7 +4,7 @@ url:          http://peterdfields.github.io/
 author:
   name:       ""
   email:      ""
-markdown:     rdiscount
+markdown:     
 permalink:    pretty
-pygments:     true
+highlighter:  rouge
 paginate:     5
